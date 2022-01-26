@@ -40,4 +40,6 @@
 
 ![모델결과값](image/Voting.png)
 
+- 전체 모델 기준
 
+![모델결과값](image/All.png)
